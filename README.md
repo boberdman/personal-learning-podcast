@@ -8,6 +8,16 @@ Public, AI-generated learning audio created with Google's NotebookLM.
 
 The feed and show artwork are served by GitHub Pages. Episode audio is a GitHub Release asset. The repository contains public delivery assets; research notebooks and source documents are kept separately.
 
+## Episode 2
+
+**Keep Your Curiosity, Lose the Open Loops**, 18:22, English, hosted by Bob 1.0 and River.
+
+A research-based conversation about curiosity, choosing a current focus, and returning to paused projects. Hosted by Bob 1.0 and River. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host. The project-card experiment is a practical proposal to try, not a research-validated program.
+
+Audio: 192 kbps mono MP3, 44.1 kHz, **26,440,087 bytes**.
+
+SHA-256: `8d4f1a31acf88bb24eb08bdfa73791301f0a1150a59ab151009a73da12388f12`
+
 ## Episode 1
 
 An AI-generated NotebookLM conversation about the Voynich manuscript: its illustrated pages, scientific examination, language-like patterns, and disputed interpretations. The manuscript remains undeciphered; this episode explores evidence and hypotheses rather than claiming a solution.

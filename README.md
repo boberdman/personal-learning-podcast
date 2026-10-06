@@ -1,4 +1,4 @@
-# Personal Learning Podcast
+# Bob Has Questions. Unfortunately.
 
 Public, AI-generated learning audio created with Google's NotebookLM.
 

@@ -24,13 +24,15 @@ Sources: [Microsoft's Majorana 2 research](https://quantum.microsoft.com/en-us/i
 
 ## Episode 3
 
-**The Voynich Manuscript: Strange Theories, Hidden Knowledge, and the Evidence**, 39:06, English, hosted by Bob 1.0 and River.
+**The Voynich Manuscript: Strange Theories, Hidden Knowledge, and the Evidence**, 37:02, English, hosted by Bob 1.0 and River.
 
 An in-depth conversation about the Voynich manuscript's unconventional and nonmaterialist interpretations, including visionary writing, secret knowledge, and extraterrestrial theories. Bob 1.0 and River distinguish documented facts from speculation and debate what evidence would support or weaken these ideas. The manuscript remains undeciphered; no alien or supernatural explanation is established. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host.
 
-Audio: 128 kbps mono MP3, 44.1 kHz, **37,533,426 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **53,322,708 bytes**.
 
-SHA-256: `288b054918169fec54e5cc22dbc38d10ea78c159958e21061464e60e214ccfcf`
+SHA-256: `e2f293007bd2b4c91fdca27b96d7cb6595d8d8b93e75dc64a5d470907025b37c`
+
+Final approved v2 includes the reusable intro and outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#voynich-theories) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003-revision-20261008/Bob-Has-Questions-Episode-03-Release-v2.mp3). The original episode GUID and publication date are retained; [original audio](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003/Episode-03-The-Voynich-Manuscript-Bob-1-0-and-River-128kbps.mp3) remains available for rollback.
 
 ## Episode 2
 

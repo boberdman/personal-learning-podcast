@@ -20,13 +20,15 @@ SHA-256: `288b054918169fec54e5cc22dbc38d10ea78c159958e21061464e60e214ccfcf`
 
 ## Episode 2
 
-**Keep Your Curiosity, Lose the Open Loops**, 18:22, English, hosted by Bob 1.0 and River.
+**Keep Your Curiosity, Lose the Open Loops**, 17:30, English, hosted by Bob 1.0 and River.
 
 A research-based conversation about curiosity, choosing a current focus, and returning to paused projects. Hosted by Bob 1.0 and River. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host. The project-card experiment is a practical proposal to try, not a research-validated program.
 
-Audio: 192 kbps mono MP3, 44.1 kHz, **26,440,087 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **25,197,573 bytes**.
 
-SHA-256: `8d4f1a31acf88bb24eb08bdfa73791301f0a1150a59ab151009a73da12388f12`
+SHA-256: `63c6446ab1877e837d6a79771a73a909bc071a19c5b17c7cc31f8400f9d7465c`
+
+Final v2 audio includes the reusable intro and outro. The [original 18:22 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/curiosity-002/Episode-02-Keep-Your-Curiosity-Bob-1-0-and-River.mp3) is retained for rollback. The episode GUID and original publication date are unchanged.
 
 ## Episode 1
 

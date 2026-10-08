@@ -1,10 +1,10 @@
 # Bob Has Questions. Unfortunately.
 
-Public, AI-generated learning audio created with Google's NotebookLM.
+A personal learning podcast created and directed by Bob. AI-assisted research checked against sources and AI-generated voices turn his curiosity into learning conversations. Hosted by Bob 1.0, an AI voice based on Bob, and River.
 
 - Website: https://boberdman.github.io/personal-learning-podcast/
 - RSS subscription URL: https://boberdman.github.io/personal-learning-podcast/feed.xml
-- First episode: **Why Nobody Can Read the Voynich Manuscript**, 23:21, English.
+- First episode: **Why Nobody Can Read the Voynich Manuscript**, 23:58, English.
 
 The feed and show artwork are served by GitHub Pages. Episode audio is a GitHub Release asset. The repository contains public delivery assets; research notebooks and source documents are kept separately.
 
@@ -32,11 +32,13 @@ Final v2 audio includes the reusable intro and outro. The [original 18:22 MP3](h
 
 ## Episode 1
 
-An AI-generated NotebookLM conversation about the Voynich manuscript: its illustrated pages, scientific examination, language-like patterns, and disputed interpretations. The manuscript remains undeciphered; this episode explores evidence and hypotheses rather than claiming a solution.
+An AI-generated conversation about the Voynich manuscript: its illustrated pages, scientific examination, language-like patterns, and disputed interpretations. The manuscript remains undeciphered; this episode explores evidence and hypotheses rather than claiming a solution.
 
-Audio: 128 kbps stereo MP3, 44.1 kHz, **22,419,428 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **34,521,425 bytes**.
 
-SHA-256: `e9f568829f4a28320182c914977e8eee52ff20f8b9c110439a53ac1c7b4ca2b2`
+SHA-256: `5ddd0aa767b8b69410f692d311cc1969e0c878048b8ecd37c8eb1a4371255a78`
+
+Final v2 audio is a source-grounded revision hosted by Bob 1.0 and River and includes the reusable intro and outro. The [original 23:21 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-001/why-nobody-can-read-the-voynich-manuscript-podcast-128k.mp3) is retained for rollback. Historical provenance: the original audio was created with NotebookLM. The episode GUID and original publication date are unchanged.
 
 ## Adding an episode
 

@@ -8,6 +8,20 @@ A personal learning podcast created and directed by Bob. AI-assisted research ch
 
 The feed and show artwork are served by GitHub Pages. Episode audio is a GitHub Release asset. The repository contains public delivery assets; research notebooks and source documents are kept separately.
 
+## Episode 4
+
+**Quantum Computing: The Majorana Bet and What DARPA Is Testing**, 20:16, English, hosted by Bob 1.0 and River.
+
+A conversation about how quantum computers use superposition, interference, and entanglement, why error correction matters, and what Microsoft's Majorana approach would need to demonstrate. Bob 1.0 and River examine the Majorana 2 parity-lifetime results and DARPA's independent evaluation, distinguishing reported measurements, company targets, and useful computation. Evidence reviewed 8 October 2026; evaluation is not completed validation. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host.
+
+Audio: 192 kbps mono MP3, 44.1 kHz, **29,184,942 bytes**.
+
+SHA-256: `2a69e8c2061e53aac23d53b98c0c25a82b25b5fe082003a1bf1b6a527e49e1f9`
+
+The final audio includes the reusable intro and outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#quantum) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/quantum-004-v1-20261008/Bob-Has-Questions-Episode-04-Quantum.mp3).
+
+Sources: [Microsoft's Majorana 2 research](https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor) · [Parity-lifetime research preprint](https://arxiv.org/html/2606.03884v2) · [DARPA Quantum Benchmarking Initiative](https://www.darpa.mil/research/programs/quantum-benchmarking-initiative)
+
 ## Episode 3
 
 **The Voynich Manuscript: Strange Theories, Hidden Knowledge, and the Evidence**, 39:06, English, hosted by Bob 1.0 and River.

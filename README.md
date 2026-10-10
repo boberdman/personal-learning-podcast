@@ -36,15 +36,15 @@ Final approved v2 includes the reusable intro and outro. [Listen on the website]
 
 ## Episode 2
 
-**Keep Your Curiosity, Lose the Open Loops**, 17:30, English, hosted by Bob 1.0 and River.
+**Keep Your Curiosity, Lose the Open Loops**, 18:50, English, hosted by Bob 1.0 and River.
 
 A research-based conversation about curiosity, choosing a current focus, and returning to paused projects. Hosted by Bob 1.0 and River. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host. The project-card experiment is a practical proposal to try, not a research-validated program.
 
-Audio: 192 kbps mono MP3, 44.1 kHz, **25,197,573 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **27,124,704 bytes**.
 
-SHA-256: `63c6446ab1877e837d6a79771a73a909bc071a19c5b17c7cc31f8400f9d7465c`
+SHA-256: `874d994f56d11203fb4be1f7cb7b37d4c91ed0250484c83d6833cf2f94805c10`
 
-Final v2 audio includes the reusable intro and outro. The [original 18:22 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/curiosity-002/Episode-02-Keep-Your-Curiosity-Bob-1-0-and-River.mp3) is retained for rollback. The episode GUID and original publication date are unchanged.
+Revised v3 has Bob asking the questions and River explaining the ideas, with the canonical Bob intro and matching River outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#curiosity) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/curiosity-002-revision-20261010/Bob-Has-Questions-Episode-02-Release-v3.mp3). The [previous 17:30 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/curiosity-002-revision-20261007/Bob-Has-Questions-Episode-02-Release-v2.mp3) and [original 18:22 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/curiosity-002/Episode-02-Keep-Your-Curiosity-Bob-1-0-and-River.mp3) remain available for rollback. The episode GUID and original publication date are unchanged.
 
 ## Episode 1
 

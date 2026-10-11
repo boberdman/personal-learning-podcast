@@ -4,35 +4,35 @@ A personal learning podcast created and directed by Bob. AI-assisted research ch
 
 - Website: https://boberdman.github.io/personal-learning-podcast/
 - RSS subscription URL: https://boberdman.github.io/personal-learning-podcast/feed.xml
-- First episode: **Why Nobody Can Read the Voynich Manuscript**, 23:58, English.
+- First episode: **Why Nobody Can Read the Voynich Manuscript**, 24:40, English.
 
 The feed and show artwork are served by GitHub Pages. Episode audio is a GitHub Release asset. The repository contains public delivery assets; research notebooks and source documents are kept separately.
 
 ## Episode 4
 
-**Quantum Computing: The Majorana Bet and What DARPA Is Testing**, 20:16, English, hosted by Bob 1.0 and River.
+**Quantum Computing: The Majorana Bet and What DARPA Is Testing**, 21:14, English, hosted by Bob 1.0 and River.
 
 A conversation about how quantum computers use superposition, interference, and entanglement, why error correction matters, and what Microsoft's Majorana approach would need to demonstrate. Bob 1.0 and River examine the Majorana 2 parity-lifetime results and DARPA's independent evaluation, distinguishing reported measurements, company targets, and useful computation. Evidence reviewed 8 October 2026; evaluation is not completed validation. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host.
 
-Audio: 192 kbps mono MP3, 44.1 kHz, **29,184,942 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **30,568,324 bytes**.
 
-SHA-256: `2a69e8c2061e53aac23d53b98c0c25a82b25b5fe082003a1bf1b6a527e49e1f9`
+SHA-256: `f2a23eddcce2550ec02e7959909703ab1608271bbbfae72d99f06645152d29b7`
 
-The final audio includes the reusable intro and outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#quantum) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/quantum-004-v1-20261008/Bob-Has-Questions-Episode-04-Quantum.mp3).
+Revised v3 uses Bob 1.0 and River (Jane), with the canonical Bob intro and matching Jane outro. The episode GUID and original publication date are retained; the previous audio remains available for rollback. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#quantum) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/quantum-004-revision-20261011/Bob-Has-Questions-Episode-04-Release-v3.mp3).
 
 Sources: [Microsoft's Majorana 2 research](https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor) · [Parity-lifetime research preprint](https://arxiv.org/html/2606.03884v2) · [DARPA Quantum Benchmarking Initiative](https://www.darpa.mil/research/programs/quantum-benchmarking-initiative)
 
 ## Episode 3
 
-**The Voynich Manuscript: Strange Theories, Hidden Knowledge, and the Evidence**, 37:02, English, hosted by Bob 1.0 and River.
+**The Voynich Manuscript: Strange Theories, Hidden Knowledge, and the Evidence**, 38:31, English, hosted by Bob 1.0 and River.
 
 An in-depth conversation about the Voynich manuscript's unconventional and nonmaterialist interpretations, including visionary writing, secret knowledge, and extraterrestrial theories. Bob 1.0 and River distinguish documented facts from speculation and debate what evidence would support or weaken these ideas. The manuscript remains undeciphered; no alien or supernatural explanation is established. Both hosts are AI-generated: Bob 1.0 uses a clone of Bob's own voice with his permission; River is an AI-generated host.
 
-Audio: 192 kbps mono MP3, 44.1 kHz, **53,322,708 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **55,470,333 bytes**.
 
-SHA-256: `e2f293007bd2b4c91fdca27b96d7cb6595d8d8b93e75dc64a5d470907025b37c`
+SHA-256: `82ed1a3229358612d27f64c269e1027fd00862ee3dcbc7f4c68cfc7bda1edfde`
 
-Final approved v2 includes the reusable intro and outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#voynich-theories) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003-revision-20261008/Bob-Has-Questions-Episode-03-Release-v2.mp3). The original episode GUID and publication date are retained; [original audio](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003/Episode-03-The-Voynich-Manuscript-Bob-1-0-and-River-128kbps.mp3) remains available for rollback.
+Revised v3 uses Bob 1.0 and River (Jane), with the canonical Bob intro and matching Jane outro. [Listen on the website](https://boberdman.github.io/personal-learning-podcast/#voynich-theories) or [download the MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003-revision-20261011/Bob-Has-Questions-Episode-03-Release-v3.mp3). The original episode GUID and publication date are retained; [original audio](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-003/Episode-03-The-Voynich-Manuscript-Bob-1-0-and-River-128kbps.mp3) remains available for rollback.
 
 ## Episode 2
 
@@ -50,11 +50,11 @@ Revised v3 has Bob asking the questions and River explaining the ideas, with the
 
 An AI-generated conversation about the Voynich manuscript: its illustrated pages, scientific examination, language-like patterns, and disputed interpretations. The manuscript remains undeciphered; this episode explores evidence and hypotheses rather than claiming a solution.
 
-Audio: 192 kbps mono MP3, 44.1 kHz, **34,521,425 bytes**.
+Audio: 192 kbps mono MP3, 44.1 kHz, **35,519,260 bytes**.
 
-SHA-256: `5ddd0aa767b8b69410f692d311cc1969e0c878048b8ecd37c8eb1a4371255a78`
+SHA-256: `5ac8f316ce909b46c34979b7ece0204e10bb55518d51b14c9e70ce10c2029242`
 
-Final v2 audio is a source-grounded revision hosted by Bob 1.0 and River and includes the reusable intro and outro. The [original 23:21 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-001/why-nobody-can-read-the-voynich-manuscript-podcast-128k.mp3) is retained for rollback. Historical provenance: the original audio was created with NotebookLM. The episode GUID and original publication date are unchanged.
+Revised v3 audio is a source-grounded conversation hosted by Bob 1.0 and River (Jane), with the canonical Bob intro and matching Jane outro. [Download the 24:40 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-001-revision-20261011/Bob-Has-Questions-Episode-01-Release-v3.mp3). The [original 23:21 MP3](https://github.com/boberdman/personal-learning-podcast/releases/download/voynich-001/why-nobody-can-read-the-voynich-manuscript-podcast-128k.mp3) is retained for rollback. Historical provenance: the original audio was created with NotebookLM. The episode GUID and original publication date are unchanged.
 
 ## Adding an episode
 

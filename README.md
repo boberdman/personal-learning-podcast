@@ -1,5 +1,7 @@
 # Bob Has Questions. Unfortunately.
 
+> **This podcast moved.** Listen at [bobhasquestions.com](https://bobhasquestions.com/) or subscribe to the [current RSS feed](https://bobhasquestions.com/feed.xml). The GitHub links below are historical.
+
 A personal learning podcast created and directed by Bob. AI-assisted research checked against sources and AI-generated voices turn his curiosity into learning conversations. Hosted by Bob 1.0, an AI voice based on Bob, and River.
 
 - Website: https://boberdman.github.io/personal-learning-podcast/
